@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "LoveConnect Zambia",
+    "slug": "loveconnect-zambia",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "scheme": "loveconnect",
+    "plugins": ["expo-router"],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
